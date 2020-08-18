@@ -4,8 +4,8 @@ I am Suriya, a master's student at the University of California, Santa Barbara. 
 
 ### Projects
 1. [Rasterization](pages/raster.md) [IN PROGRESS]
-2. Ray Tracing [DUE August 15th]
-3. Real-time Ray Tracing [DUE August 25th]
+2. Ray Tracing [IN PROGRESS]
+3. Real-time Ray Tracing [PLANNING]
 4. Path Tracing [PLANNING]
 
 
