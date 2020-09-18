@@ -12,7 +12,8 @@ Exploring the graphics pipeline using the rendering technique of rasterization.
 
 ### Results -
   ##### Phong Shading
-  ![Ambient](https://github.com/codesavory/Rasterizer_Course/blob/master/output images/ambient.png "Ambient portion of Phong Shading")
+  
+  ![Ambient](https://github.com/codesavory/Rasterizer_Course/blob/master/output%20images/ambient.png "Ambient portion of Phong Shading")
   
   ![Diffuse](https://github.com/codesavory/Rasterizer_Course/blob/master/output%20images/proper_diffuse.png "Diffuse portion of Phong Shading")
   
