@@ -10,13 +10,13 @@ I am Suriya, a master's student at the University of California, Santa Barbara. 
 
 <div class="row">
     <div class="column">
-        <img src="/images/rasterization/textured_cow.png" alt="Snow" style="width:100%">
+        <img src="/images/rasterization/textured_cow.png" alt="Snow" style="width:33.33%">
     </div>
     <div class="column">
-        <img src="/images/raytracing/scene3_old.jpg" alt="Forest" style="width:100%">
+        <img src="/images/raytracing/scene3_old.jpg" alt="Forest" style="width:33.33%">
     </div>
     <div class="column">
-        <img src="/images/pathtracing/ray_iterative.jpg" alt="Mountains" style="width:100%">
+        <img src="/images/pathtracing/ray_iterative.jpg" alt="Mountains" style="width:33.33%">
     </div>
 </div> 
 
