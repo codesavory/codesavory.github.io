@@ -6,12 +6,9 @@ GitHub Repo - [https://github.com/codesavory/RayTracer_Course.git](https://githu
 
 ### Implemented - 
     1. Camera, Light and Material models.
-    <br/>
     2. Ray routine - creation, traversal.
-    <br/>
     3. Ray-triangle, Ray-Sphere Intersection.
-    <br/>
-    4. Bounding Volume Hierarchy(BVH) acceleration.\
+    4. Bounding Volume Hierarchy(BVH) acceleration.
 
 ### Existing Libraries -
     1. Scene Reader - The scene descriptions are originally from Inventor applications(a toolkit provided by SGI) by Brian L. Curless, Eric Veach.
