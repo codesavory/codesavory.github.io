@@ -9,9 +9,9 @@ I am Suriya, a master's student at the University of California, Santa Barbara. 
 3. [Path Tracing](pages/pathtracer.md)
 
 <div class="row">
-    <img src="/images/rasterization/textured_cow.png" alt="Snow" style="width:33.33%">
-    <img src="/images/raytracing/scene3_old.jpg" alt="Forest" style="width:33.33%">
-    <img src="/images/pathtracing/ray_iterative.jpg" alt="Mountains" style="width:33.33%">
+    <img src="/images/rasterization/textured_cow.png" alt="Snow" style="width:30%">
+    <img src="/images/raytracing/scene3_old.jpg" alt="Forest" style="width:30%">
+    <img src="/images/pathtracing/ray_iterative.jpg" alt="Mountains" style="width:30%">
 </div> 
 
 ### Contact
