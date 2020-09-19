@@ -15,3 +15,24 @@ GitHub Repo - [https://github.com/codesavory/RayTracer_Course.git](https://githu
     2. Object Loader - A Single Header OBJ Model Loader by Robert Smith - https://github.com/Bly7/OBJ-Loader
 
 ### Results -
+   Scene1:
+  <br />
+  ![Scene1](../images/raytracing/scene1_old.jpg "Scene1")
+  
+  Scene2:
+  <br />
+  ![Scene2](../images/raytracing/scene2_old.jpg "Scene2")
+  
+  Scene3:
+  <br />
+  ![Scene3](../images/raytracing/scene3_old.jpg "Scene1")
+  
+  Scene4:
+  <br />
+  ![Scene4](../images/raytracing/scene4_old.jpg "Scene1")
+  
+  Scene5:
+  <br />
+  ![Scene5](../images/raytracing/scene5_old.jpg "Scene1")
+  
+  ###### *part of an acdemic project in advanced image synthesis.
