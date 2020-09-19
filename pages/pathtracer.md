@@ -2,7 +2,9 @@
 
 Extendering the rendering technique of ray tracing to unbiased monte carlo based path tracer.
 
-*Extension of the ray tracer from - https://github.com/codesavory/RayTracer_Course/
+GitHub Repo - [https://github.com/codesavory/PathTracer_Course/](https://github.com/codesavory/PathTracer_Course/)
+
+*Extension of the ray tracer from - [https://github.com/codesavory/RayTracer_Course/](https://github.com/codesavory/RayTracer_Course/)
 
 ### Implemented - 
 
@@ -21,3 +23,5 @@ Extendering the rendering technique of ray tracing to unbiased monte carlo based
    Cornell Box scene rendered using Naive Path Tracer with 16spp(Res: 500px X 500px):
    <br />
    ![Cornell Box scene Naive](../images/pathtracing/ray_recursive.jpg  "Cornell Box scene(Naive)")
+
+###### *part of an acdemic project in advanced image synthesis.
