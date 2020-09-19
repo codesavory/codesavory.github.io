@@ -8,7 +8,7 @@ I am Suriya, a master's student at the University of California, Santa Barbara. 
 2. [Ray Tracing](pages/raytracer.md)
 3. [Path Tracing](pages/pathtracer.md)
 
-<div class="row" style="width: 930px; max-width: 100%; border: 1px solid blue;>
+<div class="row">
     <img src="/images/rasterization/textured_cow.png">
     <img src="/images/raytracing/scene3_old.jpg">
     <img src="/images/pathtracing/ray_iterative.jpg">
