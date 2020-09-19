@@ -8,8 +8,10 @@ I am Suriya, a master's student at the University of California, Santa Barbara. 
 2. [Ray Tracing](pages/raytracer.md)
 3. [Path Tracing](pages/pathtracer.md)
 
+### Snapshots
+
 <div class="row">
-    <a href="pages/raster.md"><img src="/images/rasterization/textured_cow.png" alt="Rasterization" style="width:30%"></a>
+    [<img src="/images/rasterization/textured_cow.png" alt="Rasterization" style="width:30%">](pages/raster.md)
     <img src="/images/raytracing/scene3_old.jpg" alt="Ray Tracing" style="width:30%">
     <img src="/images/pathtracing/ray_iterative.jpg" alt="Path Tracing" style="width:30%">
 </div> 
