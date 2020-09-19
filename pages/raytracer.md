@@ -12,6 +12,6 @@ GitHub Repo - [https://github.com/codesavory/RayTracer_Course.git](https://githu
 
 ### Existing Libraries -
     1. Scene Reader - The scene descriptions are originally from Inventor applications(a toolkit provided by SGI) by Brian L. Curless, Eric Veach.
-    2. Object Loader - A Single Header OBJ Model Loader by Robert Smith. [GitHub Link](https://github.com/Bly7/OBJ-Loader)
+    2. Object Loader - A Single Header OBJ Model Loader by Robert Smith - https://github.com/Bly7/OBJ-Loader
 
 ### Results -
