@@ -35,4 +35,4 @@ GitHub Repo - [https://github.com/codesavory/RayTracer_Course.git](https://githu
   <br />
   ![Scene5](../images/raytracing/scene5_old.jpg "Scene1")
   
-  ###### *part of an acdemic project in advanced image synthesis.
+###### *part of an acdemic project in advanced image synthesis.
