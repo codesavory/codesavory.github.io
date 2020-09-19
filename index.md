@@ -5,7 +5,7 @@ I am Suriya, a master's student at the University of California, Santa Barbara. 
 ### Projects
 1. [Rasterization](pages/raster.md)
 2. [Ray Tracing](pages/raytracer.md)
-3. Path Tracing
+3. [Path Tracing](pages/pathtracer.md)
 
 
 ### Contact
