@@ -6,9 +6,9 @@ GitHub Repo - [https://github.com/codesavory/Rasterizer_Course](https://github.c
 
 ### Implemented -
   1. Transformations and Projection
-  
+  <br />
   2. Triangles and Z-Buffering
-  
+  <br />
   3. Shading - Phong and Texture Mapping
 
 ### Existing Libraries -
