@@ -2,7 +2,7 @@
 
 Exploring the graphics pipeline using the rendering technique of rasterization.
 
-GitHub Repo - https://github.com/codesavory/Rasterizer_Course 
+GitHub Repo - [https://github.com/codesavory/Rasterizer_Course](https://github.com/codesavory/Rasterizer_Course)
 
 ### Implemented -
   1. Transformations and Projection
