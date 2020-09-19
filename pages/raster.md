@@ -2,16 +2,21 @@
 
 Exploring the graphics pipeline using the rendering technique of rasterization.
 
+GitHub Repo - https://github.com/codesavory/Rasterizer_Course 
+
 ### Implemented -
-  Transformations and Projection
-  Triangles and Z-Buffering
-  Shading - Phong and Texture Mapping
+  1. Transformations and Projection
+  
+  2. Triangles and Z-Buffering
+  
+  3. Shading - Phong and Texture Mapping
 
 ### Existing Libraries -
-  Object Loader created by Robert Smith - GitHub Repo
+  Object Loader created by Robert Smith - [GitHub Repo](https://github.com/Bly7/OBJ-Loader)
 
 ### Results -
-  #### Phong Shading
+  
+  Phong Shading
   
   Ambient:
   <br />
