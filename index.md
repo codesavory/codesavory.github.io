@@ -4,9 +4,8 @@ I am Suriya, a master's student at the University of California, Santa Barbara. 
 
 ### Projects
 1. [Rasterization](pages/raster.md)
-2. Ray Tracing
-3. Real-time Ray Tracing
-4. Path Tracing
+2. [Ray Tracing](pages/raytracer.md)
+3. Path Tracing
 
 
 ### Contact
