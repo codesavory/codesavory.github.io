@@ -1,12 +1,12 @@
 ## Welcome to Suriya's Portfolio
 
-I am Suriya, a master's student at the University of California, Santa Barbara. I am extremely passionate about computer graphics and am learning and exploring this wonderful field. I am interested in all the aspects of graphics - animations, game development, VFX and simulation. Anything in 3D Graphics and I am excited to dip my feet. This exploration has taught me a lot and have put together some of the projects that I want to share. Please feel free to share, comment and discuss on my work.
+I am Suriya, a master's student at the University of California, Santa Barbara. I am extremely passionate about computer graphics and am learning and exploring this wonderful field. I am interested in lighting and rendering while exploring other aspects of appearance modeling and real-time rendering. This exploration has taught me a lot and I have put together some of the projects. Please feel free to share feedback on my work.
 
 ### Projects
-1. [Rasterization](pages/raster.md) [IN PROGRESS]
-2. Ray Tracing [IN PROGRESS]
-3. Real-time Ray Tracing [PLANNING]
-4. Path Tracing [PLANNING]
+1. [Rasterization](pages/raster.md)
+2. Ray Tracing
+3. Real-time Ray Tracing
+4. Path Tracing
 
 
 ### Contact
