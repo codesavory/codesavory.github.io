@@ -1,6 +1,6 @@
 ## Ray Tracing Project
 
-Exploring the rendering technique of ray tracing for high quality offline rendering.
+Exploring the rendering technique of ray tracing for high quality offline rendering. Based on the whitted illumniation model.
 
 GitHub Repo - [https://github.com/codesavory/RayTracer_Course.git](https://github.com/codesavory/RayTracer_Course.git)
 
