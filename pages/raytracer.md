@@ -13,6 +13,7 @@ GitHub Repo - [https://github.com/codesavory/RayTracer_Course.git](https://githu
 ### Existing Libraries -
     1. Scene Reader - The scene descriptions are originally from Inventor applications(a toolkit provided by SGI) by Brian L. Curless, Eric Veach.
     2. Object Loader - A Single Header OBJ Model Loader by Robert Smith - https://github.com/Bly7/OBJ-Loader
+    3. Image Writer - stb_image_write - writes out PNG/BMP/TGA/JPEG/HDR images to C stdio by Sean Barrett 2010-2015 - https://github.com/nothings/stb
 
 ### Results -
    Scene1:
