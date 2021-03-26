@@ -7,6 +7,7 @@ I am Suriya, a master's student at the University of California, Santa Barbara. 
 1. [Rasterization](pages/raster.md)
 2. [Ray Tracing](pages/raytracer.md)
 3. [Path Tracing](pages/pathtracer.md)
+4. [Real-time Face Relighting](pages/realtime_relighting.md)
 
 ### Snapshots
 
@@ -14,6 +15,7 @@ I am Suriya, a master's student at the University of California, Santa Barbara. 
     <a href="https://codesavory.github.io/pages/raster.html"><img src="/images/rasterization/textured_cow.png" alt="Rasterization" style="width:30%"></a>
     <a href="https://codesavory.github.io/pages/raytracer.html"><img src="/images/raytracing/scene3_old.jpg" alt="Ray Tracing" style="width:30%"></a>
     <a href="https://codesavory.github.io/pages/pathtracer.html"><img src="/images/pathtracing/ray_iterative.jpg" alt="Path Tracing" style="width:30%"></a>
+    <a href="https://codesavory.github.io/pages/realtime_relighting.html"><img src="/images/realtime_relighting/Facemesh Relighting 15-03-2021 11_13_21 AM.png" alt="Realtime Face Relighting" style="width:30%"></a>
 </div> 
 
 ### Contact
