@@ -7,15 +7,15 @@ I am Suriya, a master's student at the University of California, Santa Barbara. 
 <span class="row">
     <a href="https://codesavory.github.io/pages/raster.html">
         <img src="/images/rasterization/textured_cow.png" alt="Rasterization" style="width:60%">
-        Rasterization
+        <b>Rasterization</b> - Rasterization based rendering exloring transformation, projections and shading with pixel-triangle z-buffering.</br>
     </a>
     <a href="https://codesavory.github.io/pages/raytracer.html">
-        Ray Tracing
+        <b>Ray Tracing</b> - Ray Tracing based rendering exploring cameras and lighting with ray-triangle intersections.
         <img src="/images/raytracing/scene3_old.jpg" alt="Ray Tracing" style="width:60%">
     </a>
     <a href="https://codesavory.github.io/pages/pathtracer.html">
         <img src="/images/pathtracing/ray_iterative.jpg" alt="Path Tracing" style="width:60%">
-        Path Tracing
+        <b>Path Tracing</b> - Path Tracing based rendering exploring monte-carlo sampling and extending the above ray tracer.</br>
     </a>
 </span> 
 
