@@ -4,6 +4,7 @@ Exploring real-time relighting solutions combines techniques from graphics and a
 
 Project [Website](https://docs.google.com/document/d/e/2PACX-1vQryCLg0MJVZhnu19qQ1SakHQMn0BWfSIRSxXwK9lXiuQUnomwxPcVkbjFj8jlJFKFXTN9U0i5lVvGa/pub) <br />
 Code [GitHub](https://github.com/codesavory/mixed_and_augmented_reality/tree/main/realtime_face_relighting)
+Demo [Video](https://drive.google.com/file/d/1jw-2ubdyJqP-6OWHa0CNFCjAXUQYvmfa/view)
 
 ## Libraries Used
 1. [MediaPipe](https://mediapipe.dev/) - 3D feature extraction of face mesh 
