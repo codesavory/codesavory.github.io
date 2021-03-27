@@ -15,13 +15,13 @@ Demo [Video](https://drive.google.com/file/d/1jw-2ubdyJqP-6OWHa0CNFCjAXUQYvmfa/v
 ## Screenshots
 
 Feature extraction 3D cloud creation:
-<img src="../images/realtime_relighting/Facemesh Relighting 15-03-2021 10_39_47 AM.png">
+<img src="../images/realtime_relighting/Facemesh Relighting 15-03-2021 10_39_47 AM - cropped.png">
 
 Point Cloud Visualization in OpenGL:
-<img src="../images/realtime_relighting/Facemesh Relighting 15-03-2021 10_42_59 AM.png">
+<img src="../images/realtime_relighting/Facemesh Relighting 15-03-2021 10_42_59 AM - cropped.png">
 
 Surface Reconstruction using Open3D:
-<img src="../images/realtime_relighting/Facemesh Relighting 15-03-2021 11_13_21 AM.png">
+<img src="../images/realtime_relighting/Facemesh Relighting 15-03-2021 11_13_21 AM - cropped.png">
 
 Relighting and overlay in OpenGL:
-<img src="../images/realtime_relighting/Facemesh Relighting 14-03-2021 10_19_00 PM.png">
+<img src="../images/realtime_relighting/Facemesh-Relighting-2021-03-14-4.gif">
