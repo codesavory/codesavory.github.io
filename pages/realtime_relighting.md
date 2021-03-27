@@ -24,4 +24,7 @@ Surface Reconstruction using Open3D:
 <img src="../images/realtime_relighting/Facemesh Relighting 15-03-2021 11_13_21 AM - cropped.png">
 
 Relighting and overlay in OpenGL:
+<img src="../images/realtime_relighting/Facemesh Relighting 15-03-2021 11_14_28 AM - cropped.png">
+
+Pipeline in Real-time, without optimizations - 
 <img src="../images/realtime_relighting/Facemesh-Relighting-2021-03-14-4.gif">
