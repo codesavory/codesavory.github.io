@@ -7,22 +7,22 @@ This work represents the work done during the coursework for CSVAD and shares th
 ## Showing Progress across each week
 
 ### Week1 - Phineas Flynn
-![Phineas Flynn in Processing](https://github.com/codesavory/codesavory.github.io/blob/master/images/csvad/Phineas_Flynn.png)
+![Phineas Flynn in Processing](../images/csvad/Re-sized/Phineas_Flynn-resized.png)
 
 ### Week2 - Grid Wallpaper
-![Grid Wallpaper](https://github.com/codesavory/codesavory.github.io/blob/master/images/csvad/uniform_grid_circles_1200.png)
+![Grid Wallpaper](../images/csvad/Re-sized/uniform_grid_circles_1200-rezied.png)
 
 ### Week3 - I (x^2 + 9/4y^2 + z^2 - 1)^3 -x^2z^3 - 9/200y^2z^3 you.
-![Parametric Heart](https://github.com/codesavory/codesavory.github.io/blob/master/images/csvad/gif_screenshot.gif)
+![Parametric Heart](https://github.com/codesavory/codesavory.github.io/blob/master/images/csvad/Re-sized/parametric-heart-resized.gif)
 
 ### Week4 - The Pensieve from Harry Potter
-![Simplex Fluid](https://github.com/codesavory/codesavory.github.io/blob/master/images/csvad/simplex_droplets.gif)
+![Simplex Fluid](https://github.com/codesavory/codesavory.github.io/blob/master/images/csvad/Re-sized/simplex-resized.gif)
 
 ### Week5 - Air Brush
-![Air Brush](https://github.com/codesavory/codesavory.github.io/blob/master/images/csvad/Air-Brush-2021-02-09-10-04-47-Tr.gif)
+![Air Brush](https://github.com/codesavory/codesavory.github.io/blob/master/images/csvad/Re-sized/airbrush-resized.gif)
 
 ### Week6 - RGB Color Tesseract
-![RGB Color Picker](https://github.com/codesavory/codesavory.github.io/blob/master/images/csvad/Color-Picker-Tesseract-OpenProce.gif)
+![RGB Color Picker](https://github.com/codesavory/codesavory.github.io/blob/master/images/csvad/Re-sized/color-picker-resized.gif)
 
 ### Final Project - Isometric Voxel Building/Painting Tool
-![Voxel Painter](https://github.com/codesavory/codesavory.github.io/blob/master/images/csvad/Isometric-Paint-Tool-OpenProcess.gif)
+![Voxel Painter](https://github.com/codesavory/codesavory.github.io/blob/master/images/csvad/Re-sized/isometricTool-resized.gif)
