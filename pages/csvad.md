@@ -13,16 +13,21 @@ This work represents the work done during the coursework for CSVAD and shares th
 ![Grid Wallpaper](../images/csvad/Re-sized/uniform_grid_circles_1200-rezied.png)
 
 ### Week3 - I (x^2 + 9/4y^2 + z^2 - 1)^3 -x^2z^3 - 9/200y^2z^3 you.
-![Parametric Heart](../images/csvad/Re-sized/parametric-heart-resized.gif)
+<!--- ![Parametric Heart](../images/csvad/Re-sized/parametric-heart-resized.gif) -->
+<img src="../images/csvad/Re-sized/parametric-heart-resized.gif">
 
 ### Week4 - The Pensieve from Harry Potter
-![Simplex Fluid](../images/csvad/Re-sized/simplex-resized.gif)
+<!--- ![Simplex Fluid](../images/csvad/Re-sized/simplex-resized.gif) -->
+<img src="../images/csvad/Re-sized/simplex-resized.gif">
 
 ### Week5 - Air Brush
-![Air Brush](../images/csvad/Re-sized/airbrush-resized.gif)
+<!--- ![Air Brush](../images/csvad/Re-sized/airbrush-resized.gif) -->
+<img src="../images/csvad/Re-sized/airbrush-resized.gif">
 
 ### Week6 - RGB Color Tesseract
-![RGB Color Picker](../images/csvad/Re-sized/color-picker-resized.gif)
+<!--- ![RGB Color Picker](../images/csvad/Re-sized/color-picker-resized.gif) -->
+<img src="../images/csvad/Re-sized/color-picker-resized.gif">
 
 ### Final Project - Isometric Voxel Building/Painting Tool
-![Voxel Painter](../images/csvad/Re-sized/isometricTool-resized.gif)
+<!--- ![Voxel Painter](../images/csvad/Re-sized/isometricTool-resized.gif) -->
+<img src="../images/csvad/Re-sized/isometricTool-resized.gif">
