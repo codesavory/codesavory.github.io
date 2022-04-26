@@ -1,6 +1,6 @@
-# Computational System for Visal Art and Design(CSVAD)
+# Processing Sketches
 
-This work represents the work done during the coursework for CSVAD and shares the work across sketches, designs, patterns, colors, user inputs and computational systems.
+This work represents the work done during the coursework for CSVAD and shares the work across sketches, designs, patterns, colors, user inputs and computational systems. All of this was done using the Processing graphics framework and written in Javascript in p5.js
 
 [GitHub Code](https://github.com/CSVADW21/suriya) <br />
 
