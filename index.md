@@ -9,7 +9,7 @@ I am Suriya, a master's student at the University of California, Santa Barbara. 
 3. [Path Tracing](pages/pathtracer.md)
 4. [Real-time Face Relighting](pages/realtime_relighting.md)
 5. [IMAGEimate](pages/imageimate.md)
-6. [Computation Systems for Visual Art and Design](pages/csvad.md)
+6. [Processing Sketches](pages/csvad.md)
 
 ### Snapshots
 
