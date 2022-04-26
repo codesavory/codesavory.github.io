@@ -6,8 +6,8 @@ This work represents the work done during the coursework for CSVAD and shares th
 
 ## Showing Progress across each week
 
-### Week1 - Phineas Flynn
-![Phineas Flynn in Processing](../images/csvad/Re-sized/Phineas_Flynn-resized.png)
+<!-- ### Week1 - Phineas Flynn
+![Phineas Flynn in Processing](../images/csvad/Re-sized/Phineas_Flynn-resized.png) -->
 
 ### Week2 - Grid Wallpaper
 ![Grid Wallpaper](../images/csvad/Re-sized/uniform_grid_circles_1200-rezied.png)
