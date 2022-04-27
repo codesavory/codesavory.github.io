@@ -24,4 +24,4 @@ I am Suriya, a master's student at the University of California, Santa Barbara. 
 
 ### Contact
 
-Please feel free to reach out to me at [suriya@ucsb.edu](mailto:suriya@ucsb.edu)
+Please feel free to reach out to me at [surya.dakshina@gmail.com](mailto:surya.dakshina@gmail.com)
