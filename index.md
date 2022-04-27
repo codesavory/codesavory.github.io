@@ -1,6 +1,6 @@
 ## Welcome to Suriya's Portfolio
 
-I am Suriya, a master's student at the University of California, Santa Barbara. I am extremely passionate about computer graphics and am learning and exploring this wonderful field. I am interested in lighting and rendering while exploring other aspects of appearance modeling and real-time rendering. This exploration has taught me a lot and I have put together some of the projects. Please feel free to share feedback on my work.
+I am Suriya, currently working at Mathworks Inc. as Quality Engineer. I am working in the Automated Driving Simulation Software named RoadRunner. I am extremely passionate about computer graphics and am learning and exploring this wonderful field. I am interested in lighting and rendering while also exploring other aspects of real-time graphics like augmented reality. This exploration has taught me a lot and I have put together some of the projects. Please feel free to share feedback on my work.
 
 ### Projects
 
