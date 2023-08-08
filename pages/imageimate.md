@@ -2,6 +2,7 @@
 
 This work presents an end-to-end pipeline that coverts a single RGB image into realistic animatable 3D avatar which can be used to easily create virtual humans in VR and AR applications such as Adobe AERO. This project stiches together existing neural networks techniques to solve the subproblems in this domain - 1. Image to Mesh, 2. Mesh Rigging and Skinning and 3. applies them to re-pose meshes and apply animations.
 
+[Paper at VRST ’21 Conference](https://dl.acm.org/doi/10.1145/3489849.3489922) <br />
 [GitHub Code](https://github.com/codesavory/IMAGEimate) <br />
 [Project Slides](https://docs.google.com/presentation/d/e/2PACX-1vQjt8FaWkltp1aldvHQCR8yImoDDxsk62-xEmip2vNbMrb4zetaYLo4_h3FirjTTnzbRny9xYJUCnLt/pub?start=false&loop=false&delayms=3000) <br />
 <!--[Project Poster submitted to VRST,'21](https://drive.google.com/file/d/11WOzRYf7ykGX25FbR1K_0fOE4qRjq8ru/view)-->
