@@ -1,6 +1,6 @@
 ## Welcome to Suriya's Portfolio
 
-I am Suriya, currently working at MathWorks Inc. as Quality Engineer. I am working with the Automated Driving Simulation Software named RoadRunner. I am extremely passionate about computer graphics and am learning and exploring this wonderful field. I am interested in lighting and rendering while also exploring other aspects of real-time graphics like augmented reality. This exploration has taught me a lot and I have put together some of the projects. Please feel free to share feedback on my work.
+I am Suriya, currently working at MathWorks Inc. as a Software Engineer. I am working with the Automated Driving Simulation Software named RoadRunner. I am extremely passionate about computer graphics and am learning and exploring this wonderful field. I am interested in lighting and rendering while also exploring other aspects of real-time graphics like augmented reality. This exploration has taught me a lot and I have put together some of the projects. Please feel free to share feedback on my work.
 
 ### Projects
 
@@ -10,6 +10,7 @@ I am Suriya, currently working at MathWorks Inc. as Quality Engineer. I am worki
 4. [Real-time Face Relighting](pages/realtime_relighting.md)
 5. [IMAGEimate](pages/imageimate.md)
 6. [Processing Sketches](pages/csvad.md)
+7. [Houdini Simulations](pages/houdini.md)
 
 ### Snapshots
 
@@ -20,6 +21,7 @@ I am Suriya, currently working at MathWorks Inc. as Quality Engineer. I am worki
     <a href="https://codesavory.github.io/pages/realtime_relighting.html"><img src="/images/realtime_relighting/Facemesh-Relighting-2021-03-14-4.gif" alt="Realtime Face Relighting" style="width:30%"></a>
     <a href="https://codesavory.github.io/pages/imageimate.html"><img src="/images/IMAGEimate/Teaset_pipeline_with_Aero.png" alt="Realtime Face Relighting" style="width:60%"></a>
     <a href="https://codesavory.github.io/pages/csvad.html"><img src="/images/csvad/CSVAD_wallpaper2.png" alt="Computational System for Visual Art and Design" style="width:91%"></a>
+    <a href="https://codesavory.github.io/pages/houdini.html"><img src="/images/Houdini/portfolioSimulationOptimizedEdited.gif" alt="HoudiniSimulations" style="width:91%"></a>
 </div> 
 
 ### Contact
