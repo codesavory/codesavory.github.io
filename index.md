@@ -4,6 +4,7 @@ I am Suriya, currently working at MathWorks Inc. as a Software Engineer. I am wo
 
 ## Projects
 
+
 ### Rendering
 1. [Rasterization](pages/raster.md)
 2. [Ray Tracing](pages/raytracer.md)
@@ -15,6 +16,7 @@ I am Suriya, currently working at MathWorks Inc. as a Software Engineer. I am wo
     <a href="https://codesavory.github.io/pages/pathtracer.html"><img src="/images/pathtracing/ray_iterative.jpg" alt="Path Tracing" style="width:30%"></a>
 </div>
 
+
 ### AR/VR
 1. [Real-time Face Relighting](pages/realtime_relighting.md)
 2. [Realitic 3D Avatars](pages/imageimate.md)
@@ -22,7 +24,8 @@ I am Suriya, currently working at MathWorks Inc. as a Software Engineer. I am wo
 <div class="row">
     <a href="https://codesavory.github.io/pages/realtime_relighting.html"><img src="/images/realtime_relighting/Facemesh-Relighting-2021-03-14-4.gif" alt="Realtime Face Relighting" style="width:30%"></a>
     <a href="https://codesavory.github.io/pages/imageimate.html"><img src="/images/IMAGEimate/Teaset_pipeline_with_Aero.png" alt="Realistic 3D Avatars" style="width:60%"></a>
-</div> 
+</div>
+
 
 ### Procedural Art
 1. [Processing Sketches](pages/csvad.md)
@@ -31,7 +34,8 @@ I am Suriya, currently working at MathWorks Inc. as a Software Engineer. I am wo
 <div class="row">
     <a href="https://codesavory.github.io/pages/csvad.html"><img src="/images/csvad/CSVAD_wallpaper2.png" alt="Computational System for Visual Art and Design" style="width:91%"></a>
     <a href="https://codesavory.github.io/pages/houdini.html"><img src="/images/Houdini/portfolioSimulationOptimizedEdited.gif" alt="Houdini Simulations" style="width:91%"></a>
-</div> 
+</div>
+
 
 ### Contact
 
