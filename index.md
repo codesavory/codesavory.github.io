@@ -2,9 +2,9 @@
 
 I am Suriya, currently working at MathWorks Inc. as a Software Engineer. I am working with the Automated Driving Simulation Software named RoadRunner. I am extremely passionate about computer graphics and am learning and exploring this wonderful field. I am interested in lighting and rendering while also exploring other aspects of real-time graphics like augmented reality. This exploration has taught me a lot and I have put together some of the projects. Please feel free to share feedback on my work.
 
-### Projects
+## Projects
 
-## Rendering
+### Rendering
 1. [Rasterization](pages/raster.md)
 2. [Ray Tracing](pages/raytracer.md)
 3. [Path Tracing](pages/pathtracer.md)
@@ -15,7 +15,7 @@ I am Suriya, currently working at MathWorks Inc. as a Software Engineer. I am wo
     <a href="https://codesavory.github.io/pages/pathtracer.html"><img src="/images/pathtracing/ray_iterative.jpg" alt="Path Tracing" style="width:30%"></a>
 </div>
 
-## AR/VR
+### AR/VR
 1. [Real-time Face Relighting](pages/realtime_relighting.md)
 2. [Realitic 3D Avatars from Single Image](pages/imageimate.md)
 
@@ -24,7 +24,7 @@ I am Suriya, currently working at MathWorks Inc. as a Software Engineer. I am wo
     <a href="https://codesavory.github.io/pages/imageimate.html"><img src="/images/IMAGEimate/Teaset_pipeline_with_Aero.png" alt="Realtime Face Relighting" style="width:60%"></a>
 </div> 
 
-## Procedural Art
+### Procedural Art
 1. [Processing Sketches](pages/csvad.md)
 2. [Houdini Simulations](pages/houdini.md)
 
