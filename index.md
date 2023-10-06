@@ -17,7 +17,7 @@ I am Suriya, currently working at MathWorks Inc. as a Software Engineer. I am wo
 </div>
 
 
-### AR/VR
+### AR/VR Pipeline
 1. [Real-time Face Relighting](pages/realtime_relighting.md)
 2. [Realitic 3D Avatars](pages/imageimate.md)
 
@@ -27,7 +27,7 @@ I am Suriya, currently working at MathWorks Inc. as a Software Engineer. I am wo
 </div>
 
 
-### Procedural Art
+### Procedural Generation
 1. [Processing Sketches](pages/csvad.md)
 2. [Houdini Simulations](pages/houdini.md)
 
