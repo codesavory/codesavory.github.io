@@ -9,5 +9,5 @@ This work shares my Houdini learning experience - Pyro Solver, MaterialX, and Ka
 3. Karma - Rendering done completely in Solaris with Karma
 <br/>
 Diffuse MaterialX <img src="../images/Houdini/diffuseLionInfection2.gif">
-Mettalic MaterialX <img src="../images/Houdini/metallicLionInfection.gif">
+Metallic MaterialX <img src="../images/Houdini/metallicLionInfection.gif">
 <br/>
