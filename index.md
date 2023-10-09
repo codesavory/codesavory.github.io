@@ -30,6 +30,7 @@ I am Suriya, currently working at MathWorks Inc. as a Software Engineer. I am wo
 ### Procedural Generation
 1. [Processing Sketches](pages/csvad.md)
 2. [Houdini Simulations](pages/houdini.md)
+3. [Houdini Pyro Infection System](pages/houdiniInfectionSystem.md)
 
 <div class="row">
     <a href="https://codesavory.github.io/pages/csvad.html"><img src="/images/csvad/CSVAD_wallpaper2.png" alt="Computational System for Visual Art and Design" style="width:91%"></a>
