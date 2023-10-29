@@ -37,7 +37,7 @@ I am Suriya, currently working at MathWorks Inc. as a Software Engineer. I am wo
     <a href="https://codesavory.github.io/pages/csvad.html"><img src="/images/csvad/CSVAD_wallpaper2.png" alt="Computational System for Visual Art and Design" style="width:91%"></a>
     <a href="https://codesavory.github.io/pages/houdini.html"><img src="/images/Houdini/portfolioSimulationOptimizedEdited.gif" alt="Houdini Simulations" style="width:91%"></a>
     <a href="https://codesavory.github.io/pages/houdiniInfectionSystem.html"><img src="/images/Houdini/diffuseLionFrame24.png" alt="Houdini Diffuse Lion Infections" style="width:91%"></a>
-    <a href="https://codesavory.github.io/pages/houdiniClothSimulation.html"><img src="/images/Houdini/clothSimulationFrame31.png" alt="Houdini Diffuse Lion Infections" style="width:91%"></a>
+    <a href="https://codesavory.github.io/pages/houdiniClothSimulation.html"><img src="/images/Houdini/clothSimulationFrame31.png" alt="Houdini Cloth Simulations" style="width:91%"></a>
 </div>
 
 
