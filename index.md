@@ -31,11 +31,13 @@ I am Suriya, currently working at MathWorks Inc. as a Software Engineer. I am wo
 1. [Processing Sketches](pages/csvad.md)
 2. [Houdini Simulations](pages/houdini.md)
 3. [Houdini Pyro Infection System](pages/houdiniInfectionSystem.md)
+4. [Houdini Cloth Simulation](pages/houdiniClothSimulation.md)
 
 <div class="row">
     <a href="https://codesavory.github.io/pages/csvad.html"><img src="/images/csvad/CSVAD_wallpaper2.png" alt="Computational System for Visual Art and Design" style="width:91%"></a>
     <a href="https://codesavory.github.io/pages/houdini.html"><img src="/images/Houdini/portfolioSimulationOptimizedEdited.gif" alt="Houdini Simulations" style="width:91%"></a>
-    <a href="https://codesavory.github.io/pages/houdiniInfectionSystem.html"><img src="/images/Houdini/diffuseLionInfection2.gif" alt="Houdini Diffuse Lion Infections" style="width:91%"></a>
+    <a href="https://codesavory.github.io/pages/houdiniInfectionSystem.html"><img src="/images/Houdini/diffuseLionFrame24.png" alt="Houdini Diffuse Lion Infections" style="width:91%"></a>
+    <a href="https://codesavory.github.io/pages/houdiniClothSimulation.html"><img src="/images/Houdini/clothSimulationFrame31.png" alt="Houdini Diffuse Lion Infections" style="width:91%"></a>
 </div>
 
 
