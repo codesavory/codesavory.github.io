@@ -1,9 +1,17 @@
 ## Welcome to Suriya's Portfolio
 
-I am Suriya, currently working at MathWorks Inc. as a Software Engineer. I am working with the Automated Driving Simulation Software named RoadRunner. I am extremely passionate about computer graphics and am learning and exploring this wonderful field. I am interested in lighting and rendering while also exploring other aspects of real-time graphics like augmented reality. This exploration has taught me a lot and I have put together some of the projects. Please feel free to share feedback on my work.
+I’m Suriya, currently a Software Engineer at MathWorks, where I work on camera modeling and simulation. My main passion is computer graphics—especially rendering, lighting, and real-time imaging. Recently, I’ve been exploring augmented reality and computational photography, building projects that blend graphics and machine learning. This space has taught me a lot, and I enjoy sharing my work and learning from others. Feedback is always welcome!
 
 ## Projects
 
+### Graphics: Web and machine learning
+1. [Web Renderer](https://github.com/codesavory/WebRenderer)
+2. [3D Animatable Avatars](https://github.com/codesavory/3DAnimatableAvatars)
+
+<div class="row">
+    <a href="https://github.com/codesavory/WebRenderer"><img src="images/webMLPjts/renderTriangleWeb.png" alt="Web-based Rasterizer" style="width:30%"></a>
+    <a href="https://github.com/codesavory/3DAnimatableAvatars"><img src="images/webMLPjts/depthMesh.gif" alt="Depth to Mesh Pipeline" style="width:60%"></a>
+</div>
 
 ### Rendering
 1. [Rasterization](pages/raster.md)
