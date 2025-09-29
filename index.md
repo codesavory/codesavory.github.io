@@ -8,9 +8,17 @@ I’m Suriya, currently a Software Engineer at MathWorks, where I work on camera
 1. [Web Renderer](https://github.com/codesavory/WebRenderer)
 2. [3D Animatable Avatars](https://github.com/codesavory/3DAnimatableAvatars)
 
-<div class="row">
-    <a href="https://github.com/codesavory/WebRenderer"><img src="images/webMLPjts/renderTriangleWebgl.jpg" alt="Web-based Rasterizer" style="width:30%"></a>
-    <a href="https://github.com/codesavory/3DAnimatableAvatars"><img src="images/webMLPjts/depthMesh.gif" alt="Depth to Mesh Pipeline" style="width:60%"></a>
+<div class="row" style="display: flex; align-items: center;">
+  <a href="https://github.com/codesavory/WebRenderer">
+    <img src="images/webMLPjts/renderTriangleWebgl.jpg" 
+         alt="Web-based Rasterizer" 
+         style="height:200px; object-fit: contain; margin-right:10px;">
+  </a>
+  <a href="https://github.com/codesavory/3DAnimatableAvatars">
+    <img src="images/webMLPjts/depthMesh.gif" 
+         alt="Depth to Mesh Pipeline" 
+         style="height:200px; object-fit: contain;">
+  </a>
 </div>
 
 ### Rendering
