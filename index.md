@@ -1,3 +1,6 @@
+<!-- Classic favicon -->
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+
 ## Welcome to Suriya's Portfolio
 
 I’m Suriya, currently a Software Engineer at MathWorks, where I work on camera modeling and simulation. My main passion is computer graphics—especially rendering, lighting, and real-time imaging. Recently, I’ve been exploring augmented reality and computational photography, building projects that blend graphics and machine learning. This space has taught me a lot, and I enjoy sharing my work and learning from others. Feedback is always welcome!
