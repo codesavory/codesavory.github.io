@@ -9,7 +9,7 @@ I’m Suriya, currently a Software Engineer at MathWorks, where I work on camera
 2. [3D Animatable Avatars](https://github.com/codesavory/3DAnimatableAvatars)
 
 <div class="row">
-    <a href="https://github.com/codesavory/WebRenderer"><img src="images/webMLPjts/renderTriangleWeb.png" alt="Web-based Rasterizer" style="width:30%"></a>
+    <a href="https://github.com/codesavory/WebRenderer"><img src="images/webMLPjts/renderTriangleWebgl.png" alt="Web-based Rasterizer" style="width:30%"></a>
     <a href="https://github.com/codesavory/3DAnimatableAvatars"><img src="images/webMLPjts/depthMesh.gif" alt="Depth to Mesh Pipeline" style="width:60%"></a>
 </div>
 
