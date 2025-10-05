@@ -4,21 +4,26 @@ I’m Suriya, currently a Software Engineer at MathWorks, where I work on camera
 
 ## Projects
 
-### Graphics: Web and machine learning
-1. [Web Renderer](https://github.com/codesavory/WebRenderer)
-2. [3D Animatable Avatars](https://github.com/codesavory/3DAnimatableAvatars)
+### Graphics: Web and Machine Learning
+1. [Gaussian Renderer](https://github.com/codesavory/GaussianRenderer)
+2. [Web Renderer](https://github.com/codesavory/WebRenderer)
+3. [3D Animatable Avatars](https://github.com/codesavory/3DAnimatableAvatars)
 
-<div class="row" style="display: flex; align-items: center;">
-  <a href="https://github.com/codesavory/WebRenderer">
+<div class="row" style="display: flex; align-items: center; justify-content: center;">
+  <a href="https://github.com/codesavory/GaussianRenderer" style="flex: 1; text-align: center;">
+    <img src="images/webMLPjts/saturatedGaussian.png" 
+         alt="Saturated Gaussian" 
+         style="width: 100%; max-width: 450px; object-fit: contain; margin: 5px;">
+  </a>
+  <a href="https://github.com/codesavory/WebRenderer" style="flex: 1; text-align: center;">
     <img src="images/webMLPjts/renderTriangleWebgl.jpg" 
          alt="Web-based Rasterizer" 
-         style="height:200px; object-fit: contain; margin-right:10px;">
+         style="width: 100%; max-width: 450px; object-fit: contain; margin: 5px;">
   </a>
-  <a href="https://github.com/codesavory/3DAnimatableAvatars">
-    <img src="images/webMLPjts/depthMesh.gif" 
-         alt="Depth to Mesh Pipeline" 
-         style="height:200px; object-fit: contain;">
-  </a>
+</div>
+
+<div class="row" style="display: flex; justify-content: center; margin-top: 10px;">
+  <a href="https://github.com/codesavory/3DAnimatableAvatars" style="text-align: center;"> <img src="images/webMLPjts/depthMesh.gif" alt="Depth to Mesh Pipeline" style="height:200px; object-fit: contain;"></a>
 </div>
 
 ### Rendering
