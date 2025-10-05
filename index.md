@@ -9,17 +9,9 @@ I’m Suriya, currently a Software Engineer at MathWorks, where I work on camera
 2. [Web Renderer](https://github.com/codesavory/WebRenderer)
 3. [3D Animatable Avatars](https://github.com/codesavory/3DAnimatableAvatars)
 
-<div class="row" style="display: flex; align-items: center; justify-content: center;">
-  <a href="https://github.com/codesavory/GaussianRenderer" style="flex: 1; text-align: center;">
-    <img src="images/webMLPjts/saturatedGaussian.png" 
-         alt="Saturated Gaussian" 
-         style="width: 100%; max-width: 450px; object-fit: contain; margin: 5px;">
-  </a>
-  <a href="https://github.com/codesavory/WebRenderer" style="flex: 1; text-align: center;">
-    <img src="images/webMLPjts/renderTriangleWebgl.jpg" 
-         alt="Web-based Rasterizer" 
-         style="width: 100%; max-width: 450px; object-fit: contain; margin: 5px;">
-  </a>
+<div class="row" style="display: flex; flex-direction: column; align-items: center;">
+  <a href="https://github.com/codesavory/GaussianRenderer"><img src="images/webMLPjts/saturatedGaussian.png" alt="Saturated Gaussian" style="height:200px; object-fit: contain; margin-bottom:10px;"></a>
+  <a href="https://github.com/codesavory/WebRenderer"><img src="images/webMLPjts/renderTriangleWebgl.jpg" alt="Web-based Rasterizer" style="height:200px; object-fit: contain;"></a>
 </div>
 
 <div class="row" style="display: flex; justify-content: center; margin-top: 10px;">
