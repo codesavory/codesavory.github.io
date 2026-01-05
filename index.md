@@ -42,7 +42,8 @@ I’m Suriya, currently a Software Engineer at MathWorks, where I work on camera
 ### Houdini Simulations
 1. [Pyro Infection System](pages/houdiniInfectionSystem.md)
 2. [Cloth Simulation](pages/houdiniClothSimulation.md)
-3. [Vellum Fluids](pages/rippleBubbles.md)
+3. [Vellum Fluid Simulations](pages/rippleBubbles.md)
+4. [Feather SOP & COP Texturing](pages/blossomPetals.md)
 
 <div class="row">
     <a href="https://codesavory.github.io/pages/houdiniInfectionSystem.html"><img src="/images/Houdini/metallicLionInfection.gif" alt="Houdini Diffuse Infections" style="width:45%"></a>
@@ -51,6 +52,7 @@ I’m Suriya, currently a Software Engineer at MathWorks, where I work on camera
 
 <div class="row">
     <a href="https://codesavory.github.io/pages/rippleBubbles.html"><img src="/images/bubbles/bubbleAnimationLow.gif" alt="Houdini Vellum Ripple Simulations" style="width:45%"></a>
+    <a href="https://codesavory.github.io/pages/blossomPetals.html"><img src="/images/blossomPetals/endlessBlossomLow.gif" alt="Houdini Vellum Ripple Simulations" style="width:45%"></a>
 </div>
 
 
