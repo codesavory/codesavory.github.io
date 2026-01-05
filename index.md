@@ -1,6 +1,6 @@
 ## Welcome to Suriya's Portfolio
 
-I’m Suriya, currently a Software Engineer at MathWorks, where I work on camera modeling and simulation. My main passion is computer graphics—especially rendering, lighting, and real-time imaging. Recently, I’ve been exploring augmented reality and computational photography, building projects that blend graphics and machine learning. This space has taught me a lot, and I enjoy sharing my work and learning from others. Feedback is always welcome!
+I’m Suriya, currently a Software Engineer at MathWorks, where I work on camera modeling and simulation. My main passion is computer graphics—especially rendering, lighting, and real-time imaging. Recently, I’ve been exploring augmented reality and computational photography, building projects that blend graphics and machine learning. I also dabble with doing motion graphics in Houdini, which brings both my technical expertise and creative ideas to life(please see below!). This space has taught me a lot, and I enjoy sharing my work and learning from others. Feedback is always welcome!
 
 ## Projects
 
@@ -39,10 +39,9 @@ I’m Suriya, currently a Software Engineer at MathWorks, where I work on camera
 </div>
 
 
-### Procedural Generation
-1. [Houdini Simulations](pages/houdini.md)
-2. [Houdini Pyro Infection System](pages/houdiniInfectionSystem.md)
-3. [Houdini Cloth Simulation](pages/houdiniClothSimulation.md)
+### Houdini Simulations
+1. [Pyro Infection System](pages/houdiniInfectionSystem.md)
+2. [Cloth Simulation](pages/houdiniClothSimulation.md)
 
 <div class="row">
     <a href="https://codesavory.github.io/pages/houdini.html"><img src="/images/Houdini/portfolioSimulationOptimizedEdited.gif" alt="Houdini Simulations" style="width:91%"></a>
