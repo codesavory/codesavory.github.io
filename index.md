@@ -50,10 +50,8 @@ I’m Suriya, currently a Software Engineer at MathWorks, where I work on camera
     <a href="https://codesavory.github.io/pages/houdiniClothSimulation.html"><img src="/images/Houdini/clothSimulationAnimationGIF2.gif" alt="Houdini Cloth Simulations" style="width:45%"></a>
 </div>
 <div class="row">
-    <a href="https://codesavory.github.io/pages/blossomPetals.html"><img src="/images/blossomPetals/endlessBlossomLow.gif" alt="Feather SOP & COP Texturing" style="width:90%"></a>
-</div>
-<div class="row">
     <a href="https://codesavory.github.io/pages/rippleBubbles.html"><img src="/images/bubbles/bubbleAnimationLow.gif" alt="Houdini Vellum Ripple Simulations" style="width:45%"></a>
+    <a href="https://codesavory.github.io/pages/blossomPetals.html"><img src="/images/blossomPetals/endlessBlossomLow.gif" alt="Feather SOP & COP Texturing" style="width:45%"></a>
 </div>
 
 ### Contact
