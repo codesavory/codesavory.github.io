@@ -9,7 +9,14 @@ Inspired by [Alexander Eskin Tutorial](https://www.youtube.com/watch?v=ypJL4PXxQ
 3. MaterialX - Modelling Realistic Bubbles using MaterialX Specular and Transmission.
 4. Karma - Rendered entirely in Karma
 <br/>
-Modeling <img src="../images/bubbles/modeling.png">
-Renders <img src="../images/bubbles/renderExperiment1.png"> <img src="../images/bubbles/renderExperiment2.png">
-Simulation <img src="../images/bubbles/bubbleAnimationLow.gif">
+
+## Modeling 
+<img src="../images/bubbles/modeling.png">
+
+## Renders 
+<img src="../images/bubbles/renderExperiment1.png"> <img src="../images/bubbles/renderExperiment2.png">
+
+## Simulation 
+<img src="../images/bubbles/bubbleAnimationLow.gif">
+
 <br/>
