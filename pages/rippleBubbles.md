@@ -1,6 +1,6 @@
 ---
-redirect_to: https://codesavory.dev/houdini
+redirect_to: https://codesavory.dev/play
 sitemap: false
 ---
 
-This page has moved to [codesavory.dev/houdini](https://codesavory.dev/houdini).
+This page has moved to [codesavory.dev/play](https://codesavory.dev/play).
