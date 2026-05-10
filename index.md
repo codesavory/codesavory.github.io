@@ -1,59 +1,51 @@
-## Welcome to Suriya's Portfolio
-
-I’m Suriya, currently a Software Engineer at MathWorks, where I work on camera modeling and simulation. My main passion is computer graphics—especially rendering, lighting, and real-time imaging. Recently, I’ve been exploring augmented reality and computational photography, building projects that blend graphics and machine learning. I also dabble with doing motion graphics in Houdini, which brings both my technical expertise and creative ideas to life(please see below!). This space has taught me a lot, and I enjoy sharing my work and learning from others. Feedback is always welcome!
-
-## Projects
-
-### Graphics: Web and Machine Learning
-1. [Gaussian Renderer](https://github.com/codesavory/GaussianRenderer)
-2. [Web Renderer](https://github.com/codesavory/WebRenderer)
-3. [3D Animatable Avatars](https://github.com/codesavory/3DAnimatableAvatars)
-
-<div class="row">
-    <a href="https://github.com/codesavory/GaussianRenderer"><img src="images/webMLPjts/saturatedGaussian.png" alt="Saturated Gaussian" style="width:45%"></a>
-    <a href="https://github.com/codesavory/WebRenderer"><img src="images/webMLPjts/renderTriangleWebgl.jpg" alt="Web-based Rasterizer" style="width:45%"></a>
-</div>
-<div class="row">
-    <a href="https://github.com/codesavory/3DAnimatableAvatars"><img src="images/webMLPjts/depthMesh.gif" alt="Depth to Mesh Pipeline" style="width:91%"></a>
-</div>
-
-### Rendering
-1. [Rasterization](pages/raster.md)
-2. [Ray Tracing](pages/raytracer.md)
-3. [Path Tracing](pages/pathtracer.md)
-
-<div class="row">
-    <a href="https://codesavory.github.io/pages/raster.html"><img src="/images/rasterization/textured_cow.png" alt="Rasterization" style="width:30%"></a>
-    <a href="https://codesavory.github.io/pages/raytracer.html"><img src="/images/raytracing/scene3_old.jpg" alt="Ray Tracing" style="width:30%"></a>
-    <a href="https://codesavory.github.io/pages/pathtracer.html"><img src="/images/pathtracing/ray_iterative.jpg" alt="Path Tracing" style="width:30%"></a>
-</div>
-
-
-### AR/VR Pipeline
-1. [Real-time Face Relighting](pages/realtime_relighting.md)
-2. [Realitic 3D Avatars](pages/imageimate.md)
-
-<div class="row">
-    <a href="https://codesavory.github.io/pages/realtime_relighting.html"><img src="/images/realtime_relighting/Facemesh-Relighting-2021-03-14-4.gif" alt="Realtime Face Relighting" style="width:30%"></a>
-    <a href="https://codesavory.github.io/pages/imageimate.html"><img src="/images/IMAGEimate/Teaset_pipeline_with_Aero.png" alt="Realistic 3D Avatars" style="width:60%"></a>
-</div>
-
-
-### Houdini Simulations
-1. [Pyro Infection System](pages/houdiniInfectionSystem.md)
-2. [Cloth Simulation](pages/houdiniClothSimulation.md)
-3. [Vellum Fluid Simulations](pages/rippleBubbles.md)
-4. [Feather SOP & COP Texturing](pages/endlessBlossom.md)
-
-<div class="row">
-    <a href="https://codesavory.github.io/pages/houdiniInfectionSystem.html"><img src="/images/Houdini/metallicLionInfection.gif" alt="Houdini Diffuse Infections" style="width:45%"></a>
-    <a href="https://codesavory.github.io/pages/houdiniClothSimulation.html"><img src="/images/Houdini/clothSimulationAnimationGIF2.gif" alt="Houdini Cloth Simulations" style="width:45%"></a>
-</div>
-<div class="row">
-    <a href="https://codesavory.github.io/pages/rippleBubbles.html"><img src="/images/bubbles/bubbleAnimationLow.gif" alt="Houdini Vellum Ripple Simulations" style="width:45%"></a>
-    <a href="https://codesavory.github.io/pages/endlessBlossom.html"><img src="/images/blossomPetals/endlessBlossomLow.gif" alt="Feather SOP & COP Texturing" style="width:45%"></a>
-</div>
-
-### Contact
-
-Please feel free to reach out to me at [surya.dakshina@gmail.com](mailto:surya.dakshina@gmail.com)
+---
+layout: null
+permalink: /index.html
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>codesavory — moved to codesavory.dev</title>
+  <meta http-equiv="refresh" content="0; url=https://codesavory.dev/" />
+  <link rel="canonical" href="https://codesavory.dev/" />
+  <meta name="robots" content="noindex" />
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 480px; margin: 8rem auto; padding: 0 1.5rem; color: #1a1815; line-height: 1.55; }
+    a { color: #6a8f6e; }
+    @media (prefers-color-scheme: dark) { body { background: #0e0d0b; color: #f0ebe3; } a { color: #8ab870; } }
+  </style>
+  <script>
+    // Preserve the path/query when redirecting (e.g., /pages/imageimate.html → /work)
+    (function () {
+      try {
+        // Map known old paths to new ones
+        var pathMap = {
+          "/pages/csvad.html": "/houdini",
+          "/pages/houdini.html": "/houdini",
+          "/pages/houdiniClothSimulation.html": "/houdini",
+          "/pages/houdiniInfectionSystem.html": "/houdini",
+          "/pages/rippleBubbles.html": "/houdini",
+          "/pages/endlessBlossom.html": "/houdini",
+          "/pages/imageimate.html": "/work",
+          "/pages/realistic_3d_avatar.html": "/work",
+          "/pages/realtime_relighting.html": "/work",
+        };
+        var path = window.location.pathname;
+        var target = "https://codesavory.dev" + (pathMap[path] || "/");
+        window.location.replace(target);
+      } catch (e) {
+        window.location.replace("https://codesavory.dev/");
+      }
+    })();
+  </script>
+</head>
+<body>
+  <h1>This site moved.</h1>
+  <p>
+    The portfolio is now at <a href="https://codesavory.dev/">codesavory.dev</a>.
+    Redirecting&hellip; if you aren&rsquo;t sent automatically,
+    <a href="https://codesavory.dev/">follow the link</a>.
+  </p>
+</body>
+</html>
