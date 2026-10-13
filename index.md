@@ -6,7 +6,8 @@ permalink: /index.html
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <title>codesavory — moved to codesavory.dev</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>codesavory moved to codesavory.dev</title>
   <meta http-equiv="refresh" content="0; url=https://codesavory.dev/" />
   <link rel="canonical" href="https://codesavory.dev/" />
   <meta name="robots" content="noindex" />
@@ -16,27 +17,18 @@ permalink: /index.html
     @media (prefers-color-scheme: dark) { body { background: #0e0d0b; color: #f0ebe3; } a { color: #8ab870; } }
   </style>
   <script>
-    // Preserve the path/query when redirecting (e.g., /pages/imageimate.html → /work)
+    // Old project pages map to their new homes. Anything else goes to the root.
     (function () {
+      var play = ["csvad", "houdini", "houdiniClothSimulation", "houdiniInfectionSystem", "rippleBubbles", "endlessBlossom"];
+      var work = ["imageimate", "pathtracer", "raster", "raytracer", "realistic_3d_avatar", "realtime_relighting"];
+      var target = "https://codesavory.dev/";
       try {
-        // Map known old paths to new ones
-        var pathMap = {
-          "/pages/csvad.html": "/houdini",
-          "/pages/houdini.html": "/houdini",
-          "/pages/houdiniClothSimulation.html": "/houdini",
-          "/pages/houdiniInfectionSystem.html": "/houdini",
-          "/pages/rippleBubbles.html": "/houdini",
-          "/pages/endlessBlossom.html": "/houdini",
-          "/pages/imageimate.html": "/work",
-          "/pages/realistic_3d_avatar.html": "/work",
-          "/pages/realtime_relighting.html": "/work",
-        };
-        var path = window.location.pathname;
-        var target = "https://codesavory.dev" + (pathMap[path] || "/");
-        window.location.replace(target);
-      } catch (e) {
-        window.location.replace("https://codesavory.dev/");
-      }
+        var name = window.location.pathname.split("/").filter(Boolean).pop() || "";
+        name = name.replace(/\.html$/, "");
+        if (play.indexOf(name) > -1) target = "https://codesavory.dev/play";
+        else if (work.indexOf(name) > -1) target = "https://codesavory.dev/work";
+      } catch (e) {}
+      window.location.replace(target);
     })();
   </script>
 </head>
