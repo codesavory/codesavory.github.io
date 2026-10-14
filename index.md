@@ -7,9 +7,9 @@ permalink: /index.html
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>codesavory moved to suriya.codesavory.dev</title>
-  <meta http-equiv="refresh" content="0; url=https://suriya.codesavory.dev/" />
-  <link rel="canonical" href="https://suriya.codesavory.dev/" />
+  <title>codesavory moved to codesavory.dev</title>
+  <meta http-equiv="refresh" content="0; url=https://codesavory.dev/" />
+  <link rel="canonical" href="https://codesavory.dev/" />
   <meta name="robots" content="noindex" />
   <style>
     body { font-family: system-ui, sans-serif; max-width: 480px; margin: 8rem auto; padding: 0 1.5rem; color: #1a1815; line-height: 1.55; }
@@ -21,12 +21,12 @@ permalink: /index.html
     (function () {
       var play = ["csvad", "houdini", "houdiniClothSimulation", "houdiniInfectionSystem", "rippleBubbles", "endlessBlossom"];
       var work = ["imageimate", "pathtracer", "raster", "raytracer", "realistic_3d_avatar", "realtime_relighting"];
-      var target = "https://suriya.codesavory.dev/";
+      var target = "https://codesavory.dev/";
       try {
         var name = window.location.pathname.split("/").filter(Boolean).pop() || "";
         name = name.replace(/\.html$/, "");
-        if (play.indexOf(name) > -1) target = "https://suriya.codesavory.dev/play";
-        else if (work.indexOf(name) > -1) target = "https://suriya.codesavory.dev/work";
+        if (play.indexOf(name) > -1) target = "https://codesavory.dev/play";
+        else if (work.indexOf(name) > -1) target = "https://codesavory.dev/work";
       } catch (e) {}
       window.location.replace(target);
     })();
@@ -35,9 +35,9 @@ permalink: /index.html
 <body>
   <h1>This site moved.</h1>
   <p>
-    The portfolio is now at <a href="https://suriya.codesavory.dev/">suriya.codesavory.dev</a>.
+    The portfolio is now at <a href="https://codesavory.dev/">codesavory.dev</a>.
     Redirecting&hellip; if you aren&rsquo;t sent automatically,
-    <a href="https://suriya.codesavory.dev/">follow the link</a>.
+    <a href="https://codesavory.dev/">follow the link</a>.
   </p>
 </body>
 </html>
